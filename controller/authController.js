@@ -1,4 +1,4 @@
-import UserModal from "../model/userModal.js";
+import UserModal from "../model/UserModel.js";
 import { v4 as uuidv4 } from "uuid";
 import otpGenerator from "otp-generator";
 import bcrypt from "bcrypt";
